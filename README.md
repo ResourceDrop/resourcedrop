@@ -1,4 +1,5 @@
 # Resource Drop #
+![Resource Drop](ResourceDrop.png)
 Resource drop is an open source server for creating sharing 
 platforms for file sharing. It offers features for resources 
 sharing platforms such as **user management**, **user authentication**
